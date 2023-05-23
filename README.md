@@ -1,10 +1,9 @@
-
 Oi, eu sou o **Alan** <br/>
 Engenheiro de software e desenvolvedor backend
 
 <div>
-Comecei minha caminhada na programação com macros do Excel e <br/>
-hoje trabalho principalmente com as seguintes tecnologias:
+Comecei minha caminhada na programação com macros do Excel<br/>
+e hoje trabalho principalmente com as seguintes tecnologias:
 </div>
 
 <div style="display: inline_block">
@@ -22,6 +21,9 @@ hoje trabalho principalmente com as seguintes tecnologias:
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
 </div>
 <br/>
+
+---
+
 <div>
 <a href="https://www.linkedin.com/in/alanfmiranda/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
