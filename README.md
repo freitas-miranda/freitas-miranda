@@ -1,8 +1,9 @@
 
-Oi, eu sou o **Alan** engenheiro de software e desenvolvedor backend!
+Oi, eu sou o **Alan** <br/>
+Engenheiro de software e desenvolvedor backend
 
 <div>
-Comecei minha caminhada na programação com macros do Excel e <br>
+Comecei minha caminhada na programação com macros do Excel e <br/>
 hoje trabalho principalmente com as seguintes tecnologias:
 </div>
 
