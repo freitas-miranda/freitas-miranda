@@ -2,8 +2,8 @@ Oi, eu sou o **Alan** <br/>
 Desenvolvedor Backend Sênior / Especialista em Node.js
 
 <div>
-Comecei minha jornada na programação criando macros no Excel, explorando automação e eficiência em tarefas do dia a dia. <br/>
-Atualmente, trabalho com um conjunto robusto de tecnologias modernas, contribuindo para projetos desafiadores e escaláveis.  
+Comecei minha jornada na programação criando macros no Excel, explorando automação em tarefas do dia a dia. <br/>
+Atualmente, trabalho com um conjunto de tecnologias modernas, contribuindo para projetos desafiadores e escaláveis.  
 </div>
 
 ### Tech Stack
